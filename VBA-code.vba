@@ -1,5 +1,3 @@
-Sub Stock_Data_Analysis()
-
 'Define all variables
 '------------------------------------------------------------------------------------------------------
 '(Ticker Symbol, Open Price, Closing Price, Percentage Change, Total Stock Volume,Yearly Change, Greatest Total Volume)
